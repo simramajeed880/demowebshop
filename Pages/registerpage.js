@@ -31,7 +31,7 @@ class RegisterPage {
     // ✅ Fixed dummy test data
     const firstName = 'Simra';
     const lastName = 'Majeed';
-    const email = 'simra2010@gmail.com';
+    const email = 'simra20010@gmail.com';
     const password = 'simra222';
 
     await this.genderFemale.check();

@@ -1,0 +1,26 @@
+[
+  {
+    "firstName": "Ghufran",
+    "lastName": "Ali",
+    "email": "ghfn01@gmail.com",
+    "password": "aaaaaan@123",
+    "city": "Karachi",
+    "country": "Pakistan",
+    "state": "Other (Non US)",
+    "address": "corp mess shahre faisal",
+    "zip": "74800",
+    "phone": "03312645099"
+  },
+  {
+    "firstName": "Ali",
+    "lastName": "Khan",
+    "email": "ali.104@gmail.com",
+    "password": "ali@123",
+    "city": "Lahore",
+    "country": "Pakistan",
+    "state": "Other (Non US)",
+    "address": "Model Town",
+    "zip": "54000",
+    "phone": "03001234567"
+  }
+]
